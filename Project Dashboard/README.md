@@ -20,5 +20,5 @@ This project focuses on providing a *seamless and professional dashboard experie
 - *JavaScript (ES6)* ⚡  
 - *Bootstrap* 💠
 
-![Screenshot 2025-08-22 121247]()
-![Screenshot 2025-08-22 121247]()
+![Screenshot 2025-08-22 121247](https://github.com/Anushkaaa29/SPRY/blob/main/Project%20Dashboard/WhatsApp%20Image%202025-08-31%20at%2022.42.13_2a5d4294.jpg)
+![Screenshot 2025-08-22 121247](https://github.com/Anushkaaa29/SPRY/blob/main/Project%20Dashboard/WhatsApp%20Image%202025-08-31%20at%2022.42.36_cb584c06.jpg)
